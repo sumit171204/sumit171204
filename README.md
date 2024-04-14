@@ -1,10 +1,13 @@
+<a href="https://sumit17portfolio.netlify.app/">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExano3cHZwdjZrZ2RnNWE2MWI4d3A0emt3OTJ4ejkyazZvMnNjejhoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" alt="MasterHead" style="width: 1500px;height:250px">
+</a>
+
+
 <h1 align="center">Hi 👋, I'm Sumt</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
+<img align="right" alt="Coding" width="600" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit171204&label=Profile%20views&color=0e75b6&style=flat" alt="sumit171204" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit171204" alt="sumit171204" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sumitsuthar1712" target="blank"><img src="https://img.shields.io/twitter/follow/sumitsuthar1712?logo=twitter&style=for-the-badge" alt="sumitsuthar1712" /></a> </p>
 
@@ -26,3 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit171204&show_icons=true&locale=en&layout=compact" alt="sumit171204" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit171204&show_icons=true&locale=en" alt="sumit171204" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit171204" alt="sumit171204" /></a> </p>
+
