@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sumit17portfolio.netlify.app/](https://sumit17portfolio.netlify.app/)
 
-- 📫 How to reach me **sumit171204@gmail.com**
+- 📫 How to reach me **sumit17124@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
